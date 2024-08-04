@@ -1,0 +1,15 @@
+title: Catalin Codes
+description: >- 
+  This my personal website. Here you will have access to my portfolio as well as my blog.
+  Here I will share personal stories about my growth, anecdotes, programming related stuff.
+  I hope you enjoy it.
+domain: catalincodes.github.io
+baseurl: 
+url: https://catalincodes.github.io 
+twitter_username: catalincodes
+github_username:  catalincodes
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
