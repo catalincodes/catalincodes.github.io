@@ -1,3 +1,4 @@
+# Regular Jekyll Ignored files
 _site
 .sass-cache
 .jekyll-cache
@@ -5,3 +6,5 @@ _site
 vendor
 Gemfile.lock
 
+# Shell files for automation
+*.sh
