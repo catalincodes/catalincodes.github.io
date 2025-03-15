@@ -1,4 +1,10 @@
-# The truth About Posting Anxiety
+---
+layout: post
+title: "The Truth About Posting Anxiety"
+date: 2025-03-15 18:30:00 -0500
+---
+
+# The Truth About Posting Anxiety
 
 Usually, when we talk about posting anxiety or social media anxiety, by definition, it's the fear of being judged, getting trolled in the comments, or not racking up enough likes when posting on social media.
 
