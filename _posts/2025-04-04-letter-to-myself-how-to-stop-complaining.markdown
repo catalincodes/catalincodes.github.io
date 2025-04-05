@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A letter to myself. How to stop complaining"
-date: 2025-04-04 18:30:00 -0500
+date: 2025-04-04 20:05:00 -0400
 ---
 
 Dear Catalin,
@@ -20,4 +20,4 @@ That's about it. Focus on what you can control, be grateful and watch it... you 
 
 So that's what I am going to do. I am going to do. For the next week I will track every time I feel like complaining. If I do complain I will journal about it later. The plan, however, is to stop myself in my tracks and ask myself whether complaining is worth it.
 
-Hopefully this is helpful to you.
+Hopefully this is helpful to you, too.
