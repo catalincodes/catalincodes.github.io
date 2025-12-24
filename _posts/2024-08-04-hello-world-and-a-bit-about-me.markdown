@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello, World! (And a Bit About Me)"
 date:   2024-08-04 18:21:00 -0400
-categories:  personal-development
+categories: personal-development
 permalink: /hello-world-and-a-bit-about-me
 ---
 

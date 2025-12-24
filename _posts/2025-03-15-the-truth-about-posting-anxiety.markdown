@@ -2,6 +2,7 @@
 layout: post
 title: "The Truth About Posting Anxiety"
 date: 2025-03-15 18:30:00 -0500
+categories: blogging, social-media
 ---
 
 # The Truth About Posting Anxiety

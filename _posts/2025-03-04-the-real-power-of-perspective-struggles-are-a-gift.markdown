@@ -2,6 +2,7 @@
 layout: post
 title: "The Real Power Of Perspective: Struggles Are A Gift"
 date: 2025-03-04 18:30:00 -0400
+categories:  personal-development
 ---
 
 I would like to begin with stating that I'm not a religious person. I'm spiritual, but not religious. There's an subtle, but important difference between the two. 
