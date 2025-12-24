@@ -2,7 +2,7 @@
 layout: post
 title: "Comparing Lists in C#"
 date: 2025-12-23 20:15:00 -0400
-categories: coding, development, dotnet
+tags: coding development dotnet
 ---
 
 It's been a while that I have not written things here, and this is my first coding-related post on my blog. 

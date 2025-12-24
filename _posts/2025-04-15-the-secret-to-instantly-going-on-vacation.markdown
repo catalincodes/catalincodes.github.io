@@ -2,7 +2,7 @@
 layout: post
 title: "The Secret to Instantly Going On Vacation. How to Trick Your Brain."
 date: 2025-04-15 18:30:00 -0400
-categories: personal-development
+tags: personal-development
 ---
 
 This is going to be a short post. 

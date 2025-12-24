@@ -2,7 +2,7 @@
 layout: post
 title: "The Truth about Life and Change"
 date: 2025-05-03 15:30:00 -0400
-categories: personal-development
+tags: personal-development
 ---
 
 I am currently watching the *9-1-1* TV series on Disney+, specifically the episode "Death and Taxes" from season 6, from which I am taking a break to write this.
