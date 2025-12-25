@@ -8,20 +8,20 @@ description: >-
   Portfolio coming soon.
   
 domain: catalin.codes
-baseurl: 
-url: catalin.codes
+baseurl: ""
+url: "https://catalin.codes"
 twitter_username: catalincodes
 github_username:  catalincodes
 
 defaults:
   - scope:
       path: "" # This means "all files"
-      type: "posts" # This targets your 7 blog posts
+      type: "posts" # This targets posts
     values:
       image: "assets/og-image.png"
   - scope:
       path: ""
-      type: "pages" # This targets index.md, about.md, etc.
+      type: "pages" # This targets general pages like index.md, about.md, etc.
     values:
       image: "assets/og-image.png"
 
