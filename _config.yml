@@ -18,12 +18,12 @@ defaults:
       path: "" # This means "all files"
       type: "posts" # This targets your 7 blog posts
     values:
-      image: "/assets/og-image.png"
+      image: "assets/og-image.png"
   - scope:
       path: ""
       type: "pages" # This targets index.md, about.md, etc.
     values:
-      image: "/assets/og-image.png"
+      image: "assets/og-image.png"
 
 # Build settings
 theme: minima
