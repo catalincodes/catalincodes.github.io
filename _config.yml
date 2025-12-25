@@ -1,15 +1,32 @@
 title: Catalin Codes
 description: >- 
-  This my personal website. Here you will have access to my portfolio as well as my blog.
-  Here I will share personal stories about my growth, anecdotes, programming related stuff.
-  I hope you enjoy it.
-domain: catalincodes.github.io
+
+  Transforming ideas into code. 
+  
+  Follow my journey on personal and professional growth through the lens of a .NET developer. 
+  
+  Portfolio coming soon.
+  
+domain: catalin.codes
 baseurl: 
-url: https://catalincodes.github.io 
+url: catalin.codes/ 
 twitter_username: catalincodes
 github_username:  catalincodes
+
+defaults:
+  - scope:
+      path: "" # This means "all files"
+      type: "posts" # This targets your 7 blog posts
+    values:
+      image: "/assets/og-image.png"
+  - scope:
+      path: ""
+      type: "pages" # This targets index.md, about.md, etc.
+    values:
+      image: "/assets/og-image.png"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag

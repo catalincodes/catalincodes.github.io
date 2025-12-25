@@ -17,7 +17,7 @@ As someone who loves personal growth and ancient philosophy (*cough, cough... St
 
 I like how the lyrics begin with:
 
-<blockquote style="font-style: italic; color: grey">
+<blockquote>
     You have to fix the mind before you can bestow the blessing<br/>  
     Because until they get their mind right<br/>
     Everything you invest in them is going to leak out<br/>
@@ -50,7 +50,7 @@ I will be honest. This is hard for me, even though I talk about it. I am not per
 
 The song goes on and there's another frament of the song that really touched me.
 
-<blockquote style="font-style: italic; color: grey">
+<blockquote>
 	War be onto you if you go into another year and <br/>
 	Waste another year with the old mentality <br/>
 	While somebody's in the hospital begging God <br/>
@@ -69,13 +69,13 @@ There is this very popular [meme](https://external-preview.redd.it/uXjiHCM87n3PC
 - the person waiting at the bus stop is jealous of the person who is riding the bike 
 - the person in a wheelchair is jealous of the person who is waiting at the bus stop
 
-[[IMAGE]]
+![An image of the meme I explained in the list above](https://external-preview.redd.it/uXjiHCM87n3PC8mJOlhVvgdjZcJPYNFgtBoooSA-BNE.png?auto=webp&s=f1f8b2cd5f5e287fb1753a15bf474616e9307b70)
 
 You see, perspective is everything. While one person may be complaining about the problems in their life, another person is struggling and wishes they had the same problems. Change the mindset to one where you feel grateful for your challenges. Be happy that you've got your opportunities. 
 
 The lyrics, further in the song, say the exact same thing:
 
-<blockquote style="font-style: italic; color: grey">
+<blockquote>
 	Oh, yes, it's gonna be some struggles <br/>
 	It's gonna be some challenges <br/>
 	It's gonna be some tests <br/>
@@ -96,7 +96,7 @@ They are all people who were frustrated with the status quo. What made them diff
 Finally, we arrived to my favourite part of the song. I loved how the author decided to speak the truth:
 
 
-<blockquote style="font-style: italic; color: grey">
+<blockquote>
 	 Do you have the mindset to be blessed? <br/>
 	 You have to decide to be blessed. <br/>
 	 You have to decide "You know what, this is a day <br/>

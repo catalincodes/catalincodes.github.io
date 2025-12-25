@@ -1,0 +1,162 @@
+---
+# This ensures Jekyll reads the file to be combined with the theme
+---
+@import "minima";
+
+// --- Branding Palette ---
+$brand-navy: #00295f;
+$brand-navy-dark: #00204a;
+$brand-navy-code: #001a3d;
+$brand-amber: #ffbd4a;
+$text-light: #f8f8f8;
+$text-muted: #b0b0b0;
+$text-quote: #d0d0d0;
+
+.wrapper {
+  max-width: 850px;
+}
+
+.site-title {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  
+  img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+}
+
+.site-title, .site-title:visited {
+  color: $brand-amber !important;
+  font-weight: 800;
+}
+
+.site-description, .post-meta, .footer-heading {
+  color: $text-muted !important;
+}
+
+.site-header {
+  border-top: 5px solid $brand-amber; // Top accent bar
+  background-color: $brand-navy-dark;    // Slightly darker blue background for depth (same used in footer)
+}
+
+// Navigation links
+.site-nav .page-link {
+  color: $text-light;
+  &:hover {
+    color: $brand-amber;
+  }
+}
+
+// Footer
+.site-footer {
+  background-color: $brand-navy-dark; // Slightly darker blue background for depth (same used in header)
+  border-top: 1px solid rgba(255, 189, 74, 0.2);
+}
+
+// Target the specific wrapper Minima uses
+.footer-col-wrapper {
+  color: $text-muted !important; 
+  
+  // Target the headers inside the footer
+  .footer-heading {
+    color: $brand-amber !important;
+  }
+
+  // Ensure contact links (email/github) are readable
+  .contact-list, .social-media-list {
+    li a {
+      color: $text-muted;
+      &:hover {
+        color: $brand-amber;
+      }
+    }
+  }
+}
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: $brand-navy;
+  color: $text-light;
+}
+
+// Links (The Amber/Gold color)
+a, .post-link {
+  color: $brand-amber;
+  
+  &:visited {
+    color: lighten($brand-amber, 15%) !important; 
+  }
+
+  &:hover {
+    color: lighten($brand-amber, 10%);
+    text-decoration: underline;
+  }
+}
+
+.post-content img {
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  display: block;
+  margin: 2rem auto;
+}
+
+// Post Titles and Headings
+.post-list h2, .post-title, h1, h2, h3 {
+  color: $brand-amber;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.5px;
+}
+
+blockquote {
+  color: $text-quote;             // Light gray/white for readability
+  border-left: 4px solid $brand-amber; // Your brand's amber color
+  padding-left: 20px;
+  font-style: italic;
+  margin: 2rem 0;
+  background: rgba($brand-amber, 0.05); // Very subtle amber tint to the background
+  letter-spacing: 0.5px;
+  line-height: 1.6;
+}
+
+.highlighter-rouge .highlight {
+  background-color: $brand-navy-code !important;
+  border: 1px solid rgba(255, 189, 74, 0.2) !important;
+  border-radius: 6px;
+  padding: 0;         // Reset padding here to let 'pre' handle it
+  overflow: hidden;   // Keeps the inner 'pre' from spilling over the rounded corners
+
+  // Text container
+  pre.highlight {
+    margin: 0;
+    padding: 15px !important;
+    overflow-x: auto;
+    background: transparent !important; // Let the parent's background show through
+    color: $text-light !important;
+  }
+
+  // Syntax Colors 
+  .n { color: $text-light; }
+  .p { color: #d4d4d4; }
+  .kt { color: #4ec9b0 !important; } // Teal (int, var)
+  .k { color: #c586c0 !important; }  // Magenta (new, class)
+  .m, .mi { color: #b5cea8; }        // Numbers
+  .c1 { color: #6a9955; font-style: italic; } // Comments
+  .s, .s2 { color: #ce9178; }        // Strings
+}
+
+pre, code {
+  background-color: $brand-navy-code !important;
+  color: $text-light !important;
+  border: none !important; // Strips the #e8e8e8 borders from everywhere
+}
+
+pre.highlight {
+  margin: 0;
+  padding: 15px !important;
+  overflow-x: auto;
+}

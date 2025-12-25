@@ -42,5 +42,5 @@ I believe in the power of incremental progress. Rome wasn't built in a day, and 
 
 The journey of a developer, like any other journey, is a constant evolution. Balancing technical skills and personal growth is essential for long-term success (the latter more than you know). I've shared my experiences, hoping to inspire others to keep going and not give up on their their own paths of growth and discovery.
 
-To stay updated on my adventures, feel free to subscribe to my [RSS feed](http://catalin.codes/feed.xml) or follow me on [Instagram](https://instagram.com/catalin.codes/) and [Threads](https://www.threads.net/@catalin.codes). If you have any questions, thoughts, or simply want to connect, feel free to send me a direct message.
+To stay updated on my adventures, you should subscribe to my [RSS feed](http://catalin.codes/feed.xml). You should also follow me on [Instagram](https://instagram.com/catalin.codes/), [Threads](https://www.threads.net/@catalin.codes) and as of more recently on [Bluesky](https://bsky.app/profile/catalincodes.bsky.social). I am also active on [daily.dev](https://app.daily.dev/catalincodes) If you have any questions, thoughts, or simply want to connect, feel free to send me a direct message, where possible.
 
