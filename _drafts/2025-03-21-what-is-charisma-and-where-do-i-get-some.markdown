@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Charisma and Where do I Get Some?"
-date: 2025-03-21 18:30:00 -0500
+date: 2025-03-21 19:00:00 -0500
 ---
 
 # Here's what you need to do to become charismatic

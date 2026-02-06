@@ -3,6 +3,7 @@ layout: post
 title: "Goodbye 2025, Hello There 2026"
 date: 2026-01-05 17:45:00 -0500
 tags: personal-development
+permalink: /goodbye-2025-hello-there-2026
 ---
 
 2025 - it's been a year. According to the Chinese Zodiac it was the Year of the Snake. 2025 was the Year of the Snake and 2026 will be the Year of the Horse. I find it to be quite fitting, because in 2025, like a snake sheds their skin, I shed a lot of what was slowing me down. This helps, because in 2026, like a horse I will move forward and get me further. 

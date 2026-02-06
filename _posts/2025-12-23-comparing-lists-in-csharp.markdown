@@ -3,6 +3,7 @@ layout: post
 title: "Comparing Lists in C#"
 date: 2025-12-23 20:15:00 -0400
 tags: coding development dotnet
+permalink: /comparing-lists-in-csharp
 ---
 
 It's been a while that I have not written things here, and this is my first coding-related post on my blog. 

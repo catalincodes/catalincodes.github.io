@@ -3,6 +3,7 @@ layout: post
 title: "A letter to myself. How to stop complaining"
 date: 2025-04-04 20:05:00 -0400
 tags: personal-development
+permalink: /letter-to-myself-how-to-stop-complaining
 ---
 
 Dear Catalin,
