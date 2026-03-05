@@ -10,7 +10,7 @@ If you're like me, you have been in a situation many times where you want to cha
 
 If your goal is to change a habit where the trigger is external and not a regular occurrence, to which you can stack, then it becomes really hard. This week, however, I have received new hope. Hope that it's possible.
 
-At my work, the cafeteria is on the second floor. Being a large open space, this means that it's a lot colder than my regular working space. Monday, when I went upstairs, I realize I was cold. So, after bringing all my food and whatever else I want to have with me on my lunch break, I went back downstairs and got my sweater.
+At my work, the cafeteria is on the second floor. Being a large open space, this means that it's a lot colder than my regular working space. Last week, on Monday, when I went upstairs, I realize I was cold. So, after bringing all my food and whatever else I want to have with me on my lunch break, I went back downstairs and got my sweater.
 
 You would think that on Tuesday, after my Monday experience, I would remember to take my sweater with me, right? Alas, no. Same story: Upstairs. Cold. Back downstairs. Get sweater. I would love to say that Wednesday I remembered, but I only remembered while walking up the stairs and that's a little too late.
 
